@@ -31,6 +31,9 @@ Open-source roadmaps, interview bundles, resume templates, mentorship prompts an
 - Instagram: @shreyaslarer  
 - WhatsApp channel: https://whatsapp.com/channel/0029VbBfNyiHLHQZOkTgqa18  
 - Website / Contact: https://www.ai4career.com/ | arershreyasl@gmail.com
+
+
+
 ![Join our channel](https://github.com/user-attachments/assets/505fd3c0-43f9-46fc-97f8-614db54c2b24)
 
 ---
