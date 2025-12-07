@@ -1,4 +1,4 @@
-# AI for Career
+# ai4career
 **Helping Engineering students land top jobs.**  
 Open-source roadmaps, interview bundles, resume templates, mentorship prompts and placement AI tools.
 
